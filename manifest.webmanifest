@@ -1,0 +1,23 @@
+{
+    "name": "PWA Testing",
+    "short_name": "PWATESTING",
+    "theme_color": "#009aa9",
+    "background_color": "#009aa9",
+    "display": "standalone",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+      {
+        "src": "assets/128.png",
+        "sizes": "128x128",
+        "type": "image/png",
+        "purpose": "maskable any"
+      },
+      {
+        "src": "assets/512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable any"
+      }
+    ]
+  }
